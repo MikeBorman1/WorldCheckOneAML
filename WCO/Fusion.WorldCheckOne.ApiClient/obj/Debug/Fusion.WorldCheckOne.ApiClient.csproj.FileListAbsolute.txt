@@ -1,0 +1,11 @@
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\obj\Debug\Fusion.WorldCheckOne.ApiClient.csprojResolveAssemblyReference.cache
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\bin\Debug\Fusion.WorldCheckOne.ApiClient.dll
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\bin\Debug\Fusion.WorldCheckOne.ApiClient.pdb
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\bin\Debug\log4net.dll
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\bin\Debug\Newtonsoft.Json.dll
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\bin\Debug\RestSharp.dll
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\bin\Debug\log4net.xml
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\bin\Debug\Newtonsoft.Json.xml
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\bin\Debug\RestSharp.xml
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\obj\Debug\Fusion.WorldCheckOne.ApiClient.dll
+C:\Code\Fusion.WorldCheckOne\Fusion.WorldCheckOne.ApiClient\obj\Debug\Fusion.WorldCheckOne.ApiClient.pdb
